@@ -9,5 +9,5 @@ Basic git
 
 2. make some changes. ex: creating, updating, deleting files.
 
-3.
+3. Move the changes to staging and commit
 
