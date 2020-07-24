@@ -1,0 +1,30 @@
+Git clone
+
+
+ex: git clone <repostiry_url.git>
+
+1) Git will initialize an empty repo in your localmachine
+    git init
+2) add the remote on your existing empty repo
+    git remote add origin <repository_url>
+3) pull all the latest changes on to my local machine
+  git pull origin  
+
+
+
+Case where i have already have a repo in my local and want to push it to a remote 
+ 1) I need create a remote repo (github/gitlab)
+ 2) add that newly created remote repo url as your remotes in your local
+    git remote add origin <newly_created_repo_ulr.git>
+ 3) Push my changes to remote
+   git push origin <branch-name>
+
+
+
+Pull request.
+
+1) work on a seperate branch other than master 
+2) add , commit and push that branch to remote repo
+3) make a pull request
+4) merge / rebase.
+
