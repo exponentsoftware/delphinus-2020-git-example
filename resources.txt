@@ -1,0 +1,12 @@
+Difference between merge and rebase.
+https://hackernoon.com/git-merge-vs-rebase-whats-the-diff-76413c117333
+
+Workflows:
+https://www.atlassian.com/git/tutorials/comparing-workflows
+
+feature-branch-workflow
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+
+Book: Pro Git
+https://git-scm.com/book
