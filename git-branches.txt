@@ -1,5 +1,20 @@
-If conflicts then 
+ Git Branches:
 
-1) Resolve the conflicts.
-2) add those change to staging 
-3) commit those changes -> merge commit.
+1) create  a branch
+  git branch <branchname>
+      or
+  git checkout -b <branchName>
+
+2) Merge feature-a into feature-b
+
+  git checkout feature-b
+  git merge feature-a
+
+  1) NO conflicts
+
+  2) If there are  conflicts:
+      CONFLICT: If there exists a file with different versions. 
+
+        1) Resolve the conflicts.
+        2) add those change to staging 
+        3) commit those changes -> merge commit.
