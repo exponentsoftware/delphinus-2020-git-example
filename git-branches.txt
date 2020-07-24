@@ -1,0 +1,5 @@
+If conflicts then 
+
+1) Resolve the conflicts.
+2) add those change to staging 
+3) commit those changes -> merge commit.
