@@ -1,9 +1,8 @@
- Working with Remote Repositories
-
-
+# Working with Remote Repositories
 
 -----------
-Basic git
+
+## Basic git
 
 1. Initialize git
 
